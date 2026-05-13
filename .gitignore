@@ -1,0 +1,8 @@
+output/
+reviews/
+.DS_Store
+.vscode/
+.idea/
+*.swp
+.env
+.env.local
